@@ -1,0 +1,36 @@
+#jan{
+	text-align: center;
+	background-color: yellow;
+	height: 40px;
+	text-decoration: none;
+	word-spacing: 100px;
+}
+#feb{
+	position: absolute;
+	left: 350px;
+	 top: 200px;
+ 
+  
+ 
+}
+table,th,td{
+	border: 2px solid blue;
+
+	
+}
+table{
+	position: absolute;
+	
+	left: 500px;
+	top: 600px;
+	width:500px;
+}
+h1{
+	
+	position: absolute;
+	top: 100px;
+	left: 580px;
+}
+tr:hover{
+	background-color: grey;
+}
